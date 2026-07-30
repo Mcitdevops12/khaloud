@@ -6,7 +6,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.pipeline import make_pipeline
 from sklearn.preprocessing import StandardScaler
 
-
+print("hello")
 st.set_page_config(page_title="Diabetes Risk Predictor", page_icon="🩺", layout="centered")
 
 
